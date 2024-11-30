@@ -15,7 +15,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
+A minimal Figma clone demonstrating real-world features like live collaboration with cursor chat, comments, reactions, and design tools (shapes, image uploads) using Fabric.js.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -28,29 +28,19 @@ A minimalistic Figma clone to show how to add real-world features like live coll
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Multi Cursors, Cursor Chat, and Reactions**: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
+👉 **Real-Time Collaboration:** Multi-cursor display, live chat, and reactions for interactive teamwork.
+👉 **Active Users List:** View who’s currently collaborating.
+👉 **Commenting:** Add comments directly to specific canvas elements.
+👉 **Shape Creation:** Draw various shapes for flexible design.
+👉 **Image Uploads:** Import images to enrich your designs.
+👉 **Customization:** Adjust element properties to fit your style.
+👉 **Freehand Drawing:** Sketch freely on the canvas.
+👉 **Undo/Redo:** Easily revert or redo actions.
+👉 **Keyboard Shortcuts:** Boost productivity with copy, paste, delete, and other quick actions.
+👉 **Action History:** Track and review changes for better version control.
+👉 **Canvas Management:** Delete, scale, move, clear, or export the canvas effortlessly.
 
-👉 **Active Users**: Displays a list of currently active users in the collaborative environment, providing visibility into who is currently engaged.
-
-👉 **Comment Bubbles**: Enables users to attach comments to specific elements on the canvas, fostering communication and feedback on design components.
-
-👉 **Creating Different Shapes**: Provides tools for users to generate a variety of shapes on the canvas, allowing for diverse design elements
-
-👉 **Uploading Images**: Import images onto the canvas, expanding the range of visual content in the design
-
-👉 **Customization**: Allows users to adjust the properties of design elements, offering flexibility in customizing and fine-tuning visual components
-
-👉 **Freeform Drawing**: Enables users to draw freely on the canvas, promoting artistic expression and creative design.
-
-👉 **Undo/Redo**: Provides the ability to reverse (undo) or restore (redo) previous actions, offering flexibility in design decision-making
-
-👉 **Keyboard Actions**: Allows users to utilize keyboard shortcuts for various actions, including copying, pasting, deleting, and triggering shortcuts for features like opening cursor chat, reactions, and more, enhancing efficiency and accessibility.
-
-👉 **History**: Review the chronological history of actions and changes made on the canvas, aiding in project management and version control.
-
-👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**: Offers a range of functions for managing design elements, including deletion, scaling, moving, clearing the canvas, and exporting the final design for external use.
-
-and many more, including code architecture, advanced react hooks, and reusability 
+Plus, advanced code structure, reusable components, and React hooks for scalability!
 
 ## <a name="quick-start">Quick Start</a>
 
@@ -96,6 +86,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-"# figma_clone" 
-"# figma_clone" 
