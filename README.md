@@ -29,15 +29,25 @@ A minimal Figma clone demonstrating real-world features like live collaboration 
 ## <a name="features">🔋 Features</a>
 
 👉 **Real-Time Collaboration:** Multi-cursor display, live chat, and reactions for interactive teamwork.
+
 👉 **Active Users List:** View who’s currently collaborating.
+
 👉 **Commenting:** Add comments directly to specific canvas elements.
+
 👉 **Shape Creation:** Draw various shapes for flexible design.
+
 👉 **Image Uploads:** Import images to enrich your designs.
+
 👉 **Customization:** Adjust element properties to fit your style.
+
 👉 **Freehand Drawing:** Sketch freely on the canvas.
+
 👉 **Undo/Redo:** Easily revert or redo actions.
+
 👉 **Keyboard Shortcuts:** Boost productivity with copy, paste, delete, and other quick actions.
+
 👉 **Action History:** Track and review changes for better version control.
+
 👉 **Canvas Management:** Delete, scale, move, clear, or export the canvas effortlessly.
 
 Plus, advanced code structure, reusable components, and React hooks for scalability!
